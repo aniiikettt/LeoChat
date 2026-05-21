@@ -20,6 +20,10 @@ A small, production-oriented stateful chatbot built with FastAPI, a Groq-backed 
 - Custom, session-scoped knowledge documents via `/api/knowledge` (RAG-enabled retrieval).
 - Sliding-window memory to bound context size (`MAX_HISTORY_TURNS`).
 - Async LLM calls to Groq using `httpx.AsyncClient`.
+  
+## Live Demo
+
+🚀 Experience the high-performance search engine live: **https://leochat-1.onrender.com**
 
 ## Quick start (Windows)
 
