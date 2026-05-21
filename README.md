@@ -170,10 +170,4 @@ Please make sure your changes pass the existing tests (if any) and follow PEP 
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
-
----
-
 ### 🎉 Happy chatting with LEO!
